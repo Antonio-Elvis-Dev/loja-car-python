@@ -1,1 +1,1 @@
-install: Django, Pillow
+instalar uma venv e nela instalar: Django, Pillow
